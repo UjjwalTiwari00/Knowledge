@@ -46,3 +46,12 @@ Watch This YouTube videos to understand the broader ecosystem. You'll encounter 
 * After watching and understanding the video, implement it yourself to see how much progress you can make.
 
 * Upload everything to GitHub and share on LinkedIn and Twitter with screenshots summarizing what you learned and the process you followed.
+
+
+### Advance Project on ETL
+
+https://youtu.be/j_skupZ3zw0?si=vkojgLCEX4UqTTLu
+
+https://youtu.be/TvoiQ8Z1lGA?si=ndswdPUW6Z9ZRxHt
+
+https://youtu.be/Hfu3E0zLYDQ?si=cCcucFW4u4TvVJbS
