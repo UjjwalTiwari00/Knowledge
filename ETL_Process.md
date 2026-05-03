@@ -31,6 +31,13 @@ http://levelup.gitconnected.com/building-an-etl-data-pipeline-with-python-and-sq
 
 Watch This YouTube videos to understand the broader ecosystem. You'll encounter tools like Docker, Apache Airflow, AWS, and learn how data pipelines work—how data flows and gets stored in databases.
 
+### for dockar see this video ->
+    2. https://youtu.be/8vmKtS8W7IQ?si=DVxhHn4qUPqvA838
+
+
+
+
+
 **Remember:** Data Science and Data Engineering is about mastering different tools and technologies to work with data effectively. Key tools include:
 
 - **Programming:** Python, Pandas, SQL
